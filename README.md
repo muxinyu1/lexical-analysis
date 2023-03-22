@@ -20,4 +20,4 @@ make clean
 ./lex [c_sourc_file]
 ```
 
-上面的指令会在当前目录下生成一个`res.tokens`文件, 即是词法分析结果.
+上面的指令会在当前目录下生成一个`res.tokens`文件, 即是对`c_sourc_file`词法分析结果.
