@@ -1,2 +1,7 @@
+.vscode
 output
 lex.yy.cc
+res.tokens
+test.c
+lex.yy.c
+lex

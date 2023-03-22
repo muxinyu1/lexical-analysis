@@ -1,4 +1,1 @@
-int 
-        float
- float 
-void
+int sum(int a, int b) { }
